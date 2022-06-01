@@ -150,7 +150,7 @@ the directory (for pre-trained models) should be organized as follows:
  |   |   |---- pytorch_model.bin
  |   |   |---- config.json
  |---- scorer
- 		 |---- min_loss.pth
+ |       |---- min_loss.pth
 ```
 
 ## Preprocessed Data
