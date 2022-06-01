@@ -32,6 +32,8 @@ From NLPCC 2022 shared task 6
  |---- test.jsonl
 ```
 
+
+
 ## Start
 
 ⬇️ For Training
@@ -152,6 +154,8 @@ the directory (for pre-trained models) should be organized as follows:
  |---- scorer
  |       |---- min_loss.pth
 ```
+
+
 
 ## Processed Data
 

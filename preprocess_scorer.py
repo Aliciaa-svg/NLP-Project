@@ -135,5 +135,5 @@ if __name__ == "__main__":
                 'class': label
                 })
 
-    write_jsonl_file(data, "data/train_scorer.jsonl")
+    write_jsonl_file(data, "data/processed/train_scorer.jsonl")
     
