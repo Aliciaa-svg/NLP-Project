@@ -155,7 +155,7 @@ the directory (for pre-trained models) should be organized as follows:
 
 ## Preprocessed Data
 
-Preprocessed data from `step 1`, `step 2`,  `step 5`, `step 6` and `step 7`
+Preprocessed data generated from `step 1`, `step 2`,  `step 5`, `step 6` and `step 7`
 
 ```python
 -- data
