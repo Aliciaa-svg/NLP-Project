@@ -153,9 +153,9 @@ the directory (for pre-trained models) should be organized as follows:
  |       |---- min_loss.pth
 ```
 
-## Preprocessed Data
+## Processed Data
 
-Preprocessed data generated from `step 1`, `step 2`,  `step 5`, `step 6` and `step 7`
+Processed data generated from `step 1`, `step 2`,  `step 5`, `step 6` and `step 7`
 
 ```python
 -- data
