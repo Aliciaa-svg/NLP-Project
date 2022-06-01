@@ -19,7 +19,7 @@ def write_jsonl_file(data, filename):
 
 
 if __name__ == "__main__":
-    file = 'data/train_scorer.jsonl'
+    file = 'data/processed/train_scorer.jsonl'
 
     tokenizer = BertTokenizer.from_pretrained("hfl/chinese-bert-wwm-ext")
     processor = BertProcessor()
