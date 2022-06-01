@@ -26,7 +26,7 @@ From NLPCC 2022 shared task 6
 
 数据集已放在代码文件夹中`/data`目录下，按照`280:20`的比例划分为训练集和测试集
 
-```
+```python
 -- data
  |---- train.jsonl
  |---- test.jsonl
