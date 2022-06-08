@@ -1,4 +1,4 @@
-code for our main model
+code for our main model (Project of `21222-Natural-Language-Processing`)
 
 ## Dependencies
 
