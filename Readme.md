@@ -1,4 +1,4 @@
-# `Natural Language Processing` Project 
+# Project for `Natural Language Processing`
 code for our main model 
 
 ## Dependencies
